@@ -9,7 +9,7 @@ npm run client-install
 # Run the client & server with concurrently
 npm run dev
 
-# Run the Express server onl;y
+# Run the Express server only
 npm run server
 
 # Run the React client only
